@@ -3,7 +3,8 @@ week02
   ls, ls -a, ls -l, la -al
   pwd, cd .git, cd .., touch week01.txt
   vi week02.txt, vi week02.txt
-
+  echo "blabls" >> README.md
+  cat README.md
 
 - git commands
   git init
@@ -11,5 +12,7 @@ week02
   git add week01.txt
   git config --global user.email "toobi0809@gmail.com"
   git config --global user.name "java_sj"
-  git commit 
+  git commit -m "v0"
+  git log
+  git checkout commit "number" 
 
