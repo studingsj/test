@@ -1,0 +1,15 @@
+week02
+- linux commands
+  ls, ls -a, ls -l, la -al
+  pwd, cd .git, cd .., touch week01.txt
+  vi week02.txt, vi week02.txt
+
+
+- git commands
+  git init
+  git status
+  git add week01.txt
+  git config --global user.email "toobi0809@gmail.com"
+  git config --global user.name "java_sj"
+  git commit 
+
